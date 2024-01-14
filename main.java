@@ -46,6 +46,7 @@ class main {
             }
 
             System.out.println(cnt);
+            System.out.println(idx);
         }
 
     }
