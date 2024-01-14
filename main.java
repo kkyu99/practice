@@ -47,7 +47,8 @@ class main {
 
             System.out.println(cnt);
             System.out.println(idx);
-            Systemp.out.println("이거 추가할래");
+            System.out.println("이거 추가할래");
+            System.out.println("hi");
         }
 
     }
